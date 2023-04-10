@@ -1,3 +1,5 @@
 1.Banjo
 2.Lagos
-
+3.Lekki
+4.Ibadan
+5.Ijebu
